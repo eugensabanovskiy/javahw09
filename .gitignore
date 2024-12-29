@@ -1,5 +1,3 @@
-target/
-idea/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -19,4 +17,4 @@ buildNumber.properties
 # Intellij 
 *.iml
 /target
-*idea
+*.IDEA
